@@ -7,6 +7,7 @@
 [![Tests Passing](https://img.shields.io/badge/Unit%20Tests-10%2F10%20Passing%20(0.013s)-10b981)]()
 [![Bitcoin Lightning](https://img.shields.io/badge/Bitcoin-Lightning%20Network-f59e0b?logo=bitcoin)](https://lightning.network)
 [![Nostr NIP-47](https://img.shields.io/badge/Nostr-NWC%20(NIP--47)-8b5cf6?logo=nostr)](https://github.com/nostr-protocol/nips/blob/master/47.md)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?logo=youtube)](https://youtu.be/OgLjdOihVrw)
 [![Live Cockpit](https://img.shields.io/badge/Live%20Cockpit-Interactive%20HUD-38bdf8)](https://amazing200guy1-a11y.github.io/satsguard-ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8)](LICENSE)
 
@@ -84,6 +85,8 @@ python run_demo.py
 
 ### 3. Open Interactive Web Cockpit (HUD)
 Open `index.html` in any browser or test live online at:  
+
+* 🎥 **YouTube Video Walkthrough:** [https://youtu.be/OgLjdOihVrw](https://youtu.be/OgLjdOihVrw)
 👉 **[https://amazing200guy1-a11y.github.io/satsguard-ai/](https://amazing200guy1-a11y.github.io/satsguard-ai/)**
 
 ---
