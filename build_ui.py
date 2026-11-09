@@ -14,7 +14,7 @@ html_content = """<!DOCTYPE html>
        SATSGUARD AI — Institutional Aerospace Titanium & Bitcoin Gold
        Audemars Piguet / Pagani / Apple Pro Precision Aesthetic
        Built for Dakar Bitcoin Hack 2026 by BTrust
-       Developer: Usman Bamidele (Department of Mathematics, FUNAAB)
+       Developer: Usman Bamidele
        ════════════════════════════════════════════════════════ */
 
     :root {
@@ -1110,7 +1110,7 @@ html_content = """<!DOCTYPE html>
         <div class="brand-title">Sats<span>Guard</span> AI</div>
         <div style="font-family:var(--font-mono); font-size:9px; color:var(--text-slate);">BTRUST DAKAR 2026 EDITION</div>
       </div>
-      <div class="sub-brand">FUNAAB MATHEMATICS • ZERO-TRUST</div>
+      <div class="sub-brand">INSTITUTIONAL ZERO-TRUST</div>
     </div>
 
     <!-- 4 OPERATIONAL SCREENS TABS -->
@@ -1378,7 +1378,7 @@ html_content = """<!DOCTYPE html>
               <div class="route-node">
                 <div class="node-circle">HUB</div>
                 <div class="node-label">SatsGuard NWC</div>
-                <div class="node-sub">FUNAAB Node</div>
+                <div class="node-sub">Local Sentry Hub</div>
               </div>
               <div class="route-connector" id="conn1"></div>
               <div class="route-node">
@@ -1592,7 +1592,7 @@ html_content = """<!DOCTYPE html>
                 <span style="color:var(--emerald); font-weight:800;">✔ CRYPTOGRAPHICALLY VALID</span>
                 <span style="color:var(--text-slate); font-size:9px;">OFFLINE VERIFIED</span>
               </div>
-              <div style="color:var(--text-slate); font-size:9.5px;">Signer: npub1usman (Usman Bamidele • FUNAAB)</div>
+              <div style="color:var(--text-slate); font-size:9.5px;">Signer: npub1usman (Usman Bamidele • Verified Key)</div>
               <div style="color:var(--btc-gold); font-size:9.5px; font-weight:700;">Value: 15,000 SATS (~₦16,575 NGN)</div>
               <div style="color:var(--text-muted); font-size:8.5px;">HMAC Digest: b5f9026569ec1148 • Nonce: 8e934160 • Non-Replayable</div>
             </div>
@@ -1716,7 +1716,7 @@ html_content = """<!DOCTYPE html>
     <!-- FOOTER -->
     <footer>
       <div>
-        <strong>SatsGuard AI</strong> &bull; Dakar Bitcoin Hack 2026 by BTrust &bull; Developer: <strong>Usman Bamidele</strong> (FUNAAB, Nigeria)
+        <strong>SatsGuard AI</strong> &bull; Dakar Bitcoin Hack 2026 by BTrust &bull; Developer: <strong>Usman Bamidele</strong> (Nigeria)
       </div>
       <div class="footer-links">
         <a href="https://github.com/amazing200guy1-a11y/satsguard-ai" target="_blank">GitHub Repository</a>
