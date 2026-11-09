@@ -1,0 +1,15 @@
+Hi everyone, I'm Usman Bamidele, a mathematics student at FUNAAB in Nigeria, and this is SatsGuard AI, built for the Dakar Bitcoin Hack 2026 by BTrust.
+
+Across Africa, local fiat currencies suffer from rapid inflation, while traditional cross-border banking fees between African nations reach up to fifteen percent. Bitcoin and the Lightning Network provide the open monetary alternative we need, but complex hex invoices, predatory routing fee spikes, and frequent campus internet drops lock out everyday users.
+
+SatsGuard AI solves this as an autonomous, non-custodial copilot uniting Bitcoin, the Lightning Network, Nostr, and artificial intelligence.
+
+First, natural language African commerce. Users don't need to understand channel liquidity or hex strings. They simply type or speak in plain English or Nigerian Pidgin, like: Pay twenty-five thousand sats for hostel wifi to Kwame, or: Send five thousand sats give my brother for food. SatsGuard parses the intent, resolves the Nostr address, and maps the payment in milliseconds.
+
+Second, our pre-flight predatory fee sentry. Rogue intermediate routing nodes often charge five to ten percent in routing fees on uninformed users. SatsGuard AI mathematically enforces a strict zero point five percent fee cap. If a proposed route demands excessive fees, our sentry aborts the transaction in under zero point one milliseconds, saving hard-earned sats for African families.
+
+Third, non-custodial Nostr Wallet Connect. SatsGuard never holds user keys. It communicates directly with existing nodes like Alby, Mutiny, or Phoenix using open NIP-forty-seven standards.
+
+Finally, zero-data offline resilience. When university campus cellular towers go down, SatsGuard issues compact, HMAC-signed Nostr vouchers that can be transmitted over SMS, Bluetooth, or QR, guaranteeing instant settlement the moment either phone reconnects.
+
+That is SatsGuard AI: making Bitcoin commerce in Africa simpler, fee-protected, and resilient. Thank you to BTrust and Dakar Bitcoin Days!
